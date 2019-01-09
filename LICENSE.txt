@@ -1,0 +1,13 @@
+The IIT License (IIT)
+
+Copyright (c) 2019 Atanu Dey
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of these dataset files to use in their research work only to publish paper. If any person use this dataset then he/she has to cite our paper in his/her work (Citation information is available in README file). 
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Dataset.
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
