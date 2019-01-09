@@ -3,9 +3,10 @@ This dataset can be used for sentiment analysis purpose
 
 We are a team from "E-Business Centre of Excellence", Indian Institute of Technology Kharagpur.
 
-Team Members: Mr. Atanu Dey (Graduated MS Scholar), Prof. Mamata Jenamni, Prof. Jitesh J Thakkar, and Mr. Anay Dongre
+# Team Members: 
+Mr. Atanu Dey (Graduated MS Scholar), Prof. Mamata Jenamni, Prof. Jitesh J Thakkar, and Mr. Anay Dongre
 
-Dataset Information:
+# Dataset Information:
 We built a corpus of 16 different mobile phones. Dataset for such mobiles are stored in 16 different files. Each file contains 13 excel sheets where 10 sheets contain only sentences which are related to specific aspects. The name of such files end with "aspect name".
 
 We considered 10 aspects and their key-words are as follows:
@@ -51,7 +52,9 @@ Column F: contains "Review Title" (title of the written review)
 Column G: contains "Verified/Not" (whether reviwer are verified customer or not)
 
 
-Citation Information:
+
+
+# Citation Information:
 
 If you use either the dataset or aspect score calculation algorithm or product ranking concept in your research, please cite our paper. For example:
 
