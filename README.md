@@ -11,28 +11,43 @@ We built a corpus of 16 different mobile phones. Dataset for such mobiles are st
 We considered 10 aspects and their key-words are as follows:
 
 
-Aspects             Keywords
+Aspects    -------      Keywords
 
-Camera              camera, pixel, pix, image, picture
-Battery             battery, long, short, betteri
-Display             display, hd
-Ram                 ram, memory
-Speed               speed, hang
-Audio               audio, sound, volume
-Video               video, fps, 720p, 1080p
-Price               price, money, value, cost
-Voice               voice, microphone, mic
-Rom                 rom, internal memory
+Camera     -------      camera, pixel, pix, image, picture
+
+Battery    -------      battery, long, short, betteri
+
+Display    -------      display, hd
+
+Ram        -------      ram, memory
+
+Speed      -------      speed, hang
+
+Audio      -------      audio, sound, volume
+
+Video      -------      video, fps, 720p, 1080p
+
+Price      -------      price, money, value, cost
+
+Voice      -------      voice, microphone, mic
+
+Rom        -------      rom, internal memory
 
 
 Among other 3 sheets, one sheet contains sentence related to all aspects. The name of this sheet ends with "all_aspects". Another sheet contains sentiment score of all aspects and overall product calculated from these reviews. The name of such sheet ends with "final". Last sheet contains all raw information which we have extracted from the Amazon websites. The name of this sheet ends with "(Original_Raw_Data)". This sheet contains 7 columns are as follows:
 
 Column A: contains "Consumer Name" (name of the reviewer)
+
 Column B: contains "Date" (date of review)
+
 Column C: contains "Helpful" (how many user got helpful from this review)
+
 Column D: contains "Rating" (numeric rating along with review)
+
 Column E: contains "Review" (texual review written by consumer)
+
 Column F: contains "Review Title" (title of the written review)
+
 Column G: contains "Verified/Not" (whether reviwer are verified customer or not)
 
 
