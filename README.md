@@ -56,7 +56,7 @@ Column G: contains "Verified/Not" (whether reviwer are verified customer or not)
 
 ## Citation Information:
 
-If you use either the dataset or aspect score calculation algorithm or product ranking concept in your research, please cite our paper. For example:
+If you use either the dataset or proposed algorithms in your research, please cite our paper. For example:
 
 Dey, Atanu, Mamata Jenamani, and Jitesh J. Thakkar. "Cross-D-vectorizers: a set of feature-spaces for cross-domain sentiment analysis from consumer review." Multimedia Tools and Applications: 1-19.
 
